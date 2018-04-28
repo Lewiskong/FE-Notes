@@ -1,0 +1,23 @@
+{
+  "name": "fe-notes",
+  "version": "1.0.0",
+  "description": "前端学习以及一些感兴趣的东西的实现笔记",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lewiskong/FE-Notes.git"
+  },
+  "author": "lewiskong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lewiskong/FE-Notes/issues"
+  },
+  "homepage": "https://github.com/Lewiskong/FE-Notes#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.1"
+  }
+}
